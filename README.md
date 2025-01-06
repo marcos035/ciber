@@ -48,5 +48,9 @@ Este projeto demonstra como configurar um ambiente de phishing para capturar cre
 6. **Acompanhe os resultados:**  
    O setoolkit exibirá as credenciais capturadas (se houver) no terminal.
 
+ 7. **Resultados finais:**
+    
+    No Documento sem titulo.pdf esta uma demostração do site clonado e o resultado exibido pelo setoolkit
+
 
 
